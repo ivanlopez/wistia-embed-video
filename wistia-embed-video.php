@@ -113,7 +113,7 @@ class IL_Wistia_Embed_Video
 	}
 
 	/**
-	 * Register API field
+	 * Generate API field
 	 *
 	 * @since    1.0.0
 	 *
